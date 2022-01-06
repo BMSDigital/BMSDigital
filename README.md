@@ -39,7 +39,7 @@ Actualmente me desempeño como **Desarrollador backend** de forma independiente,
 Mi logro es satisfacer las necesidades de nuestros clientes en cuanto a los requerimientos, soporte de aplicaciones y operativos, además de la implementación de los sistemas en los cuales me desenvuelvo.
 
 
-<h3 align="left">contactar a traves de las siguientes redes sociales:</h3>
+<h3 align="left">Contactar a traves de las siguientes redes sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/fraiberthb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fraiberthb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fraiberth-bracho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fraiberth-bracho" height="30" width="40" /></a>

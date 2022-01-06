@@ -1,9 +1,9 @@
 
-[![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+[![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")]
 
 <p align="center">
-    <a href="https://youtube.com/EduardoFierroPro?sub_confirmation=1" target="blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Youtube - Eduardo Fierro Pro" height="28px" width="28px" />
+    <a href="https://www.youtube.com/channel/UCny_iN51JMuD-GNnhZXSPmA" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Youtube - Fraibert Bracho" height="28px" width="28px" />
     </a>
     <a href="https://twitch.tv/eduardofierropro" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />

@@ -1,20 +1,52 @@
-<h1 align="center">Hola 👋, Soy Fraibert Bracho</h1>
-<h3 align="center">Backend | Desarrollador Full Stack</h3>
 
-- 🔭 Estoy trabajando como **SEO de Bracho Multiservicios 2020**
+[![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
-- 🤝 Trabajo como freelance **Para diferentes agencias**
-
-- 📫 Escribeme a **Hola@BMSDigital**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fraiberthb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fraiberthb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fraiberth-bracho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fraiberth-bracho" height="30" width="40" /></a>
-<a href="https://fb.com/fraiberth bracho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fraiberth bracho" height="30" width="40" /></a>
-<a href="https://instagram.com/fbracho92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fbracho92" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bms digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bms digital" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://youtube.com/EduardoFierroPro?sub_confirmation=1" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Youtube - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://twitch.tv/eduardofierropro" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://twitter.com/eduardofierropro" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="Facebook - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://instagram.com/eduardofierro.pro" target=""blank" style="margin: 0 20px; >
+      <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="http://tiktok.com/@eduardofierro.pro" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+## 👉 Sobre mí
+Soy un **Desarrollador Fullstack** y **Profesor en la escuela [Trazos](https://trazos.net/contacto-eduardofierro)** centrado en microanimaciones tanto para páginas web como aplicaciones.
+Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/eduardofierropro)** y **trucos rápidos en [TikTok](http://tiktok.com/@eduardofierro.pro)**
+
+
+## 📹 Vídeos favoritos de mi [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
+<a href='https://www.youtube.com/watch?v=j6RZqCe4hTs' title="Aplicando el método LEAN Startup en tu PORTFOLIO - ver en Youtube" target='_blank'>
+  <img width='32%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu PORTFOLIO' />
+</a>
+<a href='https://www.youtube.com/watch?v=1hDGvWJXzqM' title="Piet Mondrian y el desarrollo web - ver en Youtube" target='_blank'>
+  <img width='32%'  src='https://i3.ytimg.com/vi/1hDGvWJXzqM/maxresdefault.jpg' alt='Piet Mondrian y el desarrollo web' />
+</a>
+<a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GIT y El Señor de los anillos - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://img.youtube.com/vi/GC_V4NeWbOs/maxresdefault.jpg' alt='GIT y El Señor de los anillos' />
+</a>
+<a href='https://www.youtube.com/watch?v=-chk3tKvNLI' title="Setup de Desarrollo Web 2021 - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://img.youtube.com/vi/-chk3tKvNLI/maxresdefault.jpg' alt='Setup de Desarrollo Web 2021' />
+</a>
+<a href='https://www.youtube.com/watch?v=WCUASu4V258' title="Clonando la web de Netflix - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://i3.ytimg.com/vi/WCUASu4V258/maxresdefault.jpg' alt='Clonando la web de Netflix' />
+</a>
+<a href='https://www.youtube.com/watch?v=P51PMs0sKys' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://i3.ytimg.com/vi/P51PMs0sKys/maxresdefault.jpg' alt='Charlas de programación con Código Vikingo' />
+</a>
+
+
+#### 📝 Artículos de mi web [eduardofierro.pro/blog](https://eduardofierro.pro/blog/):
+- [Qué demandan las empresas](https://eduardofierro.pro/blog/https://eduardofierro.pro/blog/que-demandan-las-empresas/)
+- [Autolikes en Instagram con Javascript](https://eduardofierro.pro/blog/autolikes-en-instagram-con-javascript/)
+- [Que se trabaja en programación web. Nivel Junior](https://eduardofierro.pro/blog/que-se-trabaja-en-programacion-web/)

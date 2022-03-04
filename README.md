@@ -22,9 +22,9 @@
 <h1 align="center">Hola 👋, Soy Fraibert Bracho</h1>
 <h3 align="center">Backend | Desarrollador Full Stack</h3>
 
-- 🔭 Estoy trabajando como **SEO en Bracho Multiservicios 2020**
+- 🔭 Estoy trabajando como **CEO en Bracho Multiservicios 2020**
 
-- 🤝 Trabajo como freelance **Para diferentes agencias**
+- 🤝 Trabajo como Freelance **para diferentes agencias**
 
 - 📫 Escribeme a **fraiberth1992@gmail.com**
 

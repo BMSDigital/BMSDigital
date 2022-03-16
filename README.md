@@ -1,6 +1,5 @@
 
-[![Header](https://media-exp1.licdn.com/dms/image/![1641412386057](https://user-images.githubusercontent.com/93888388/158665684-f21ddae5-5a8b-4d93-8db9-0f7b3e4d3d68.jpg)
-("Header")]
+[![Header]![1641412386057](https://user-images.githubusercontent.com/93888388/158665684-f21ddae5-5a8b-4d93-8db9-0f7b3e4d3d68.jpg)("Header")]
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCny_iN51JMuD-GNnhZXSPmA" target="blank" style="margin: 0 20px;">

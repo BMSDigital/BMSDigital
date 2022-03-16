@@ -1,5 +1,5 @@
 
-[![Header](https://media-exp1.licdn.com/dms/image/C4E16AQHin5DpL9Igrg/profile-displaybackgroundimage-shrink_200_800/0/1641412386057?e=1646870400&v=beta&t=_axLTnvwQwstViM5WqMMN_hvxRV9uRoxLDGx0Sr4IfI "Header")]
+[![Header](https://media-exp1.licdn.com/dms/image/![1641412386057](https://user-images.githubusercontent.com/93888388/158661727-d009505e-265f-4968-b29a-faef16e54796.jpg)"Header")]
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCny_iN51JMuD-GNnhZXSPmA" target="blank" style="margin: 0 20px;">
